@@ -1,0 +1,2 @@
+# Airline-Booking-System-in-Java
+Design a console based software for an airline booking system  The flight booking system should do the following:  I have used net beans which is a very useful IDE the helps to detects errors in my code at real time and shows warnings too. I have used it to generate getter setter methods for my classes. In order to achieve the specifications, I have planned the solution by producing a range of UML diagrams and provide justification to my chosen designs
